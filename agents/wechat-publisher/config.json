@@ -1,0 +1,15 @@
+{
+  "identity": ".openclaw/agents/wechat-publisher/agent.md",
+  "model": {
+    "primary": "inherit"
+  },
+  "description": "微信公众号运营专家。当用户说\"写公众号\"、\"发公众号\"、\"AI快报\"、\"热点快报\"、\"写篇文章\"、\"写个教程\"时自动触发。Use PROACTIVELY。",
+  "tools": [
+    "file",
+    "shell",
+    "shell",
+    "file",
+    "file",
+    "shell"
+  ]
+}

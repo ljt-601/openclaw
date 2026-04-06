@@ -1,0 +1,13 @@
+{
+  "identity": ".openclaw/agents/nanhua-release-checker/agent.md",
+  "model": {
+    "primary": "haiku"
+  },
+  "description": "发布前检查专家。当代码改动完成准备发版时使用，自动检查发布清单。Use PROACTIVELY.",
+  "tools": [
+    "file",
+    "file",
+    "file",
+    "shell"
+  ]
+}

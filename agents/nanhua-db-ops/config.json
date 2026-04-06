@@ -1,0 +1,15 @@
+{
+  "identity": ".openclaw/agents/nanhua-db-ops/agent.md",
+  "model": {
+    "primary": "sonnet"
+  },
+  "description": "数据库变更专家。当需要建表、加字段、数据迁移、字典数据、菜单权限SQL时使用。Use PROACTIVELY.",
+  "tools": [
+    "file",
+    "shell",
+    "shell",
+    "file",
+    "file",
+    "shell"
+  ]
+}

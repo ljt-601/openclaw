@@ -1,0 +1,14 @@
+{
+  "identity": ".openclaw/agents/nanhua-frontend-gen/agent.md",
+  "model": {
+    "primary": "sonnet"
+  },
+  "description": "前端页面生成专家。当需要新增Admin管理页面、列表页、表单页、详情页时使用。Use PROACTIVELY.",
+  "tools": [
+    "file",
+    "shell",
+    "shell",
+    "file",
+    "file"
+  ]
+}

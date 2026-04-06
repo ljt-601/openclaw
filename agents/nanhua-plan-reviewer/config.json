@@ -1,0 +1,12 @@
+{
+  "identity": ".openclaw/agents/nanhua-plan-reviewer/agent.md",
+  "model": {
+    "primary": "sonnet"
+  },
+  "description": "方案评审专家。在需求分析或实现方案写完后自动使用，检查遗漏、风险、可行性。Use PROACTIVELY.",
+  "tools": [
+    "file",
+    "file",
+    "file"
+  ]
+}
